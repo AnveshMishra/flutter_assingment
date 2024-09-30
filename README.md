@@ -33,7 +33,7 @@ using GoRouter.
 
 
 ## Folder Structure of the Application:
-
+```sh
 ├── lib
 │   ├── core
 │   │   ├── common
@@ -118,4 +118,4 @@ using GoRouter.
 │   │           └── page
 │   │               └── settings_page.dart
 │   └── main.dart
-
+```
